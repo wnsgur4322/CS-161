@@ -1,5 +1,5 @@
 # CS-161
-Oregon State University CS-161 (2018 Spring)
+Oregon State University CS-161 (2018 Winter)
 
 Assignment #1 -	Printing, Math and Command Line (100/100)
 
